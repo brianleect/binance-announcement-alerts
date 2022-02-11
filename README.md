@@ -6,9 +6,9 @@ While it was functioning, notifications were consistently received 30s to 1/2m i
 
 Old telegram channel: https://t.me/early_binance_announcements 
 
-Note that in the recent few week / month or two, the notifications were no longer faster than the official channels)
+Note that in the recent few week / month or two, the notifications were no longer faster than the official channels.
 
-The scraper is no longer being ran due to it no longer having an edge)
+The scraper is no longer being ran due to it no longer having an edge.
 
 ## Intent
 Considering how fast crypto markets move and the impact listing on a major exchange has on price, getting information of the listing in the shortest time possible can be rather profitable.
